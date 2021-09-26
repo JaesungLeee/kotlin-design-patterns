@@ -78,7 +78,7 @@
 
 <br>
 
-### 추상 팩토리 (Abstract Factory)
+### [추상 팩토리 (Abstract Factory)](https://github.com/JaesungLeee/kotlin-design-patterns/blob/main/GoF-patterns/src/main/kotlin/Creational-Patterns/AbstractFactory.kt)
 
 * 구체적인 클래스에 의존하지 않고 Interface를 통해 서로 연관 및 의존하는 객체들의 그룹으로 생성하여 추상적으로 표현
 
@@ -96,7 +96,7 @@
 
 <br>
 
-### 팩토리 메소드 (Factory Method)
+### [팩토리 메소드 (Factory Method)](https://github.com/JaesungLeee/kotlin-design-patterns/blob/main/GoF-patterns/src/main/kotlin/Creational-Patterns/FactoryMethod.kt)
 
 * 객체 생성을 서브 클래스에서 처리하도록 분리하여 캡슐화한 패턴
 
@@ -114,7 +114,7 @@
 
 <br>
 
-### 싱글톤 (Singleton)
+### [싱글톤 (Singleton)](https://github.com/JaesungLeee/kotlin-design-patterns/blob/main/GoF-patterns/src/main/kotlin/Creational-Patterns/Singleton.kt)
 
 * 특정 클래스가 하나의 객체만 생성하도록 보장
 
